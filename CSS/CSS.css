@@ -2,8 +2,11 @@
 body {
 background-color: #FFFF66;
 padding: 20px;
-background-color: #808080;
-font-family: Tahoma, Geneva, sans-serif;
+color: #808080;
+font-family: "Lucida Sans Unicode", Geneva, sans-serif;
+text-align: right;
+font-size 50px;
+border: 20px solid #696969
 }
 img{
 	max-width: 100%;
@@ -11,16 +14,20 @@ img{
 	height: auto;
 }
 h1 {
-/*#FFF is the shortcode for white.*/
 color: #FFF;
 background-color: #DCDCDC;
 padding: 10px;
+text-align: center;
+font-size: 100px;
 }
 h2 {
 color: #FFF;
 padding: 10px;
+text-align: center;
+font-size: 50px;
 }
 p {
+font-size: 30px;
 padding: 10px;
 }
 .web-links {

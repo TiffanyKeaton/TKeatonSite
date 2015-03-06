@@ -6,7 +6,7 @@
 <div class="container">
 <h1>The 411</h1>
 <p>I get pizza delivered from across the street</h1>
-<img src="img/Selfie.jpg" title="about me selfie" alt="Tiffany Keaton"/>
+<img float=center src="img/Selfie.jpg" title="about me selfie" alt="Tiffany Keaton"/>
 <p>Hi, I'm Tiifany and I'm a Senior at the University of Toledo.</p>
 <p>I bartend on the weekends and enjoy traveling as much as I can.</p>
 <h2 id="second">Hobbies</h>

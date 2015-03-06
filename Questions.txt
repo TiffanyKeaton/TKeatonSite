@@ -1,0 +1,9 @@
+<html>
+<head>Questions</head>
+<body>
+<p>Who is this site for? It is for the people to read and know basic facts about me</p>
+<p>Who is my target audience? The target audience is members of this class and the instructor as well.</p>
+<p>What is my site supposed to actually do? It is supposed to tell people basic facts about me in a simple funny format.</p>
+<p>How will I achieve the target goal of my site? I will provide a simple format with basic information and facts about me.</p>
+</body>
+</html>

@@ -1,0 +1,85 @@
+html
+{
+    width: 100%;
+    height: 100%;
+}
+
+body
+{
+    overflow: hidden;
+
+    width: 100%;
+    height: 100%;
+    margin: 0;
+color: #808080;
+font-family: "Luicinda Sana Unicode", Geneva, sans-serif;
+text align: center;
+border: 4em solid #696969;
+}
+
+.wrapper
+{
+    width: 100%;
+    height: 100%;
+}
+
+@media only screen and (min-width : 320px)
+{
+
+    h1
+    {
+        font-size: 7em;
+
+        color: #FFF;
+    }
+
+    h2 {
+      font-size: 5em;
+
+      color: #FFF;
+    }
+
+    p {
+      font-size: 2.5em;
+
+      color: #696969;
+    }
+
+    .home-wrapper
+    {
+        position: relative;
+
+        display: block;
+
+        width: 100%;
+        height: 100%;
+        margin: 0 auto;
+
+        background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)),
+        url(../img/iphone.png) no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px)
+{
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px)
+{
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px)
+{
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px)
+{
+}
